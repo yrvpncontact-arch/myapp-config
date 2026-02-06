@@ -1,3 +1,6 @@
 {
-  "baseUrl": "https://a.com/api/"
+  "baseUrl": "https://a.com/api/",
+   "baseUrl": "https://b.com/api/",
+   "baseUrl": "https://c.com/api/",
+   "baseUrl": "https://d.com/api/"
 }
